@@ -16,20 +16,20 @@ This comprehensive course covers the fundamental concepts and practical techniqu
 
 ## Exercises
 
-|   Index | Name                             | Difficulty   | Practice                                                                                                   |
-|---------|----------------------------------|--------------|------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 🆓 NumPy Array Creation       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/numpy-numpy-array-creation-596338'>Start Lab</a>       |
-|       2 | 📖 🆓 NumPy Indexing on ndarrays | Beginner     | <a target='_blank' href='https://labex.io/tutorials/numpy-numpy-indexing-on-ndarrays-596339'>Start Lab</a> |
-|       3 | 📖 🆓 NumPy IO Genfromtxt        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/numpy-numpy-io-genfromtxt-596340'>Start Lab</a>        |
-|       4 | 📖 🆓 NumPy Data Types           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/numpy-numpy-data-types-596341'>Start Lab</a>           |
-|       5 | 📖 🆓 NumPy Broadcasting         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/numpy-numpy-broadcasting-596342'>Start Lab</a>         |
-|       6 | 📖 🆓 NumPy Copies and Views     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/numpy-numpy-copies-and-views-596343'>Start Lab</a>     |
-|       7 | 📖 🆓 NumPy Structured Arrays    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/numpy-numpy-structured-arrays-596344'>Start Lab</a>    |
-|       8 | 📖 🆓 NumPy Universal Functions  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/numpy-numpy-universal-functions-596345'>Start Lab</a>  |
+|   Index | Name                             | Difficulty   | Practice                                                                                                                         |
+|---------|----------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 🧩 🆓 NumPy Array Creation       | Beginner     | <a target='_blank' href='https://labex.io/labs/numpy-numpy-array-creation-596338?course=numpy-for-beginners'>Start Lab</a>       |
+|       2 | 🧩 🆓 NumPy Indexing on ndarrays | Beginner     | <a target='_blank' href='https://labex.io/labs/numpy-numpy-indexing-on-ndarrays-596339?course=numpy-for-beginners'>Start Lab</a> |
+|       3 | 🧩 🆓 NumPy IO Genfromtxt        | Beginner     | <a target='_blank' href='https://labex.io/labs/numpy-numpy-io-genfromtxt-596340?course=numpy-for-beginners'>Start Lab</a>        |
+|       4 | 🧩 🆓 NumPy Data Types           | Beginner     | <a target='_blank' href='https://labex.io/labs/numpy-numpy-data-types-596341?course=numpy-for-beginners'>Start Lab</a>           |
+|       5 | 🧩 🆓 NumPy Broadcasting         | Beginner     | <a target='_blank' href='https://labex.io/labs/numpy-numpy-broadcasting-596342?course=numpy-for-beginners'>Start Lab</a>         |
+|       6 | 🧩 🆓 NumPy Copies and Views     | Beginner     | <a target='_blank' href='https://labex.io/labs/numpy-numpy-copies-and-views-596343?course=numpy-for-beginners'>Start Lab</a>     |
+|       7 | 🧩 🆓 NumPy Structured Arrays    | Beginner     | <a target='_blank' href='https://labex.io/labs/numpy-numpy-structured-arrays-596344?course=numpy-for-beginners'>Start Lab</a>    |
+|       8 | 🧩 🆓 NumPy Universal Functions  | Beginner     | <a target='_blank' href='https://labex.io/labs/numpy-numpy-universal-functions-596345?course=numpy-for-beginners'>Start Lab</a>  |
 
 ## About LabEx
 
-LabEx is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the Skill Tree learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, LabEx offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
+[LabEx](https://labex.io) is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the [Skill Tree](https://labex.io/learn) learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, [LabEx](https://labex.io) offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
 
 ## More
 
