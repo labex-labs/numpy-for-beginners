@@ -16,20 +16,20 @@ Este curso abrangente aborda os conceitos fundamentais e técnicas práticas do 
 
 ## Exercícios
 
-|   Índice | Nome                                                   | Dificuldade   | Prática                                                                                                         |
-|----------|--------------------------------------------------------|---------------|-----------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 🆓 Técnicas Fundamentais de Criação de Arrays NumPy | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/numpy-numpy-array-creation-596338'>Iniciar Lab</a>       |
-|        2 | 📖 🆓 Introdução à Indexação em NumPy                  | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/numpy-numpy-indexing-on-ndarrays-596339'>Iniciar Lab</a> |
-|        3 | 📖 🆓 Importando Dados com Genfromtxt                  | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/numpy-numpy-io-genfromtxt-596340'>Iniciar Lab</a>        |
-|        4 | 📖 🆓 Compreendendo os Tipos de Dados do NumPy         | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/numpy-numpy-data-types-596341'>Iniciar Lab</a>           |
-|        5 | 📖 🆓 Broadcasting do NumPy para Computação Eficiente  | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/numpy-numpy-broadcasting-596342'>Iniciar Lab</a>         |
-|        6 | 📖 🆓 Fundamentos da Manipulação de Arrays NumPy       | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/numpy-numpy-copies-and-views-596343'>Iniciar Lab</a>     |
-|        7 | 📖 🆓 Arrays Estruturados no NumPy                     | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/numpy-numpy-structured-arrays-596344'>Iniciar Lab</a>    |
-|        8 | 📖 🆓 Funções Universais do NumPy                      | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/numpy-numpy-universal-functions-596345'>Iniciar Lab</a>  |
+|   Índice | Nome                                                   | Dificuldade   | Prática                                                                                                                               |
+|----------|--------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 🧩 🆓 Técnicas Fundamentais de Criação de Arrays NumPy | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/numpy-numpy-array-creation-596338?course=numpy-for-beginners'>Iniciar Lab</a>       |
+|        2 | 🧩 🆓 Introdução à Indexação em NumPy                  | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/numpy-numpy-indexing-on-ndarrays-596339?course=numpy-for-beginners'>Iniciar Lab</a> |
+|        3 | 🧩 🆓 Importando Dados com Genfromtxt                  | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/numpy-numpy-io-genfromtxt-596340?course=numpy-for-beginners'>Iniciar Lab</a>        |
+|        4 | 🧩 🆓 Compreendendo os Tipos de Dados do NumPy         | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/numpy-numpy-data-types-596341?course=numpy-for-beginners'>Iniciar Lab</a>           |
+|        5 | 🧩 🆓 Broadcasting do NumPy para Computação Eficiente  | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/numpy-numpy-broadcasting-596342?course=numpy-for-beginners'>Iniciar Lab</a>         |
+|        6 | 🧩 🆓 Fundamentos da Manipulação de Arrays NumPy       | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/numpy-numpy-copies-and-views-596343?course=numpy-for-beginners'>Iniciar Lab</a>     |
+|        7 | 🧩 🆓 Arrays Estruturados no NumPy                     | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/numpy-numpy-structured-arrays-596344?course=numpy-for-beginners'>Iniciar Lab</a>    |
+|        8 | 🧩 🆓 Funções Universais do NumPy                      | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/numpy-numpy-universal-functions-596345?course=numpy-for-beginners'>Iniciar Lab</a>  |
 
 ## Sobre LabEx
 
-LabEx é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, LabEx oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
+[LabEx](https://labex.io) é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, [LabEx](https://labex.io) oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
 
 ## Mais
 
