@@ -16,20 +16,20 @@
 
 ## 练习
 
-|   序号 | 名称                           | 难度   | 练习                                                                                                         |
-|--------|--------------------------------|--------|--------------------------------------------------------------------------------------------------------------|
-|      1 | 📖 🆓 NumPy 数组创建基础技术   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/numpy-numpy-array-creation-596338'>开始实验</a>       |
-|      2 | 📖 🆓 NumPy 索引入门           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/numpy-numpy-indexing-on-ndarrays-596339'>开始实验</a> |
-|      3 | 📖 🆓 使用 Genfromtxt 导入数据 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/numpy-numpy-io-genfromtxt-596340'>开始实验</a>        |
-|      4 | 📖 🆓 理解 NumPy 数据类型      | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/numpy-numpy-data-types-596341'>开始实验</a>           |
-|      5 | 📖 🆓 NumPy 广播实现高效计算   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/numpy-numpy-broadcasting-596342'>开始实验</a>         |
-|      6 | 📖 🆓 NumPy 数组操作基础       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/numpy-numpy-copies-and-views-596343'>开始实验</a>     |
-|      7 | 📖 🆓 NumPy 中的结构化数组     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/numpy-numpy-structured-arrays-596344'>开始实验</a>    |
-|      8 | 📖 🆓 NumPy 通用函数入门       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/numpy-numpy-universal-functions-596345'>开始实验</a>  |
+|   序号 | 名称                           | 难度   | 练习                                                                                                                               |
+|--------|--------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------|
+|      1 | 🧩 🆓 NumPy 数组创建基础技术   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-numpy-array-creation-596338?course=numpy-for-beginners'>开始实验</a>       |
+|      2 | 🧩 🆓 NumPy 索引入门           | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-numpy-indexing-on-ndarrays-596339?course=numpy-for-beginners'>开始实验</a> |
+|      3 | 🧩 🆓 使用 Genfromtxt 导入数据 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-numpy-io-genfromtxt-596340?course=numpy-for-beginners'>开始实验</a>        |
+|      4 | 🧩 🆓 理解 NumPy 数据类型      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-numpy-data-types-596341?course=numpy-for-beginners'>开始实验</a>           |
+|      5 | 🧩 🆓 NumPy 广播实现高效计算   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-numpy-broadcasting-596342?course=numpy-for-beginners'>开始实验</a>         |
+|      6 | 🧩 🆓 NumPy 数组操作基础       | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-numpy-copies-and-views-596343?course=numpy-for-beginners'>开始实验</a>     |
+|      7 | 🧩 🆓 NumPy 中的结构化数组     | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-numpy-structured-arrays-596344?course=numpy-for-beginners'>开始实验</a>    |
+|      8 | 🧩 🆓 NumPy 通用函数入门       | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-numpy-universal-functions-596345?course=numpy-for-beginners'>开始实验</a>  |
 
 ## 关于 LabEx
 
-LabEx 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），LabEx 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
+[LabEx](https://labex.io) 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），[LabEx](https://labex.io) 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
 
 ## 更多
 
